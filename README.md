@@ -1,4 +1,4 @@
 # demo
 this is my 1st project
 <br>
-Author - Writwik Das
+Author - Writwik Das (Rimo)
